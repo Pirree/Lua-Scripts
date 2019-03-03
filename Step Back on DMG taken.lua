@@ -4,8 +4,8 @@
     Author: 			Ascer - example
 ]]
 
-local STEP_POS = {32339, 32226, 8}
-local KEY_WORDS = {"You lose"} -- set keyword for activate
+local STEP_POS = {32387, 32261, 5}
+local KEY_WORDS = {"Back Step"} -- set keyword for activate
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
