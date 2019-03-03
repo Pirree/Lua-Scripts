@@ -7,9 +7,9 @@
 local MAIN_DELAY = {4, 9}          -- mintues between run antiidle function.
 local USE_DELAY = {200, 650}       -- miliseconds between use action.
 local USE_TRIES = {4, 7}           -- amount of times to use .
-local HOUSE_DOOR = {32360, 32206, 6}-- position of food in house.
+local HOUSE_DOOR = {32387, 32261, 5}-- position of food in house.
 
-local FOOD_ID = 3582                -- food id
+local FOOD_ID = 3725                -- food id
 
 -- DONT'T EDIT BELOW THIS LINE
 
